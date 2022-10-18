@@ -1,1 +1,2 @@
 # Voice-Document-creator
+This project helps to create documents in MongoDB by just using voice instructions from the user. The project is completely built with python and it is connected to the MongoDB server in the local host, when the user gives voice commands it just registers commands in that database by creating a separate collection for the user. It basically helps to automate the process of database creation. Once the daisies are made it helps to connect with external databases through this approach in a user friendly manner.
